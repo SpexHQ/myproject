@@ -1,1 +1,2 @@
-vwvww
+git remote add origin https://github.com/SpexHQ/myproject.git
+git push -u origin master
